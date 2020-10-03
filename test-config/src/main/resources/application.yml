@@ -1,0 +1,12 @@
+person:
+  last-name: 张三
+  age: 14
+  boss: true
+  birthday: 2020/1/3
+  maps: {k1: v1, k2: v2}
+  list:
+    - 里斯
+    - 哈哈
+  dog:
+    name: 汤姆
+    age: 3

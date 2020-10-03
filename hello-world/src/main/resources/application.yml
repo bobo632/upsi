@@ -1,0 +1,19 @@
+debug: true
+person:
+  age: 18
+  sex: female
+  boss: false
+  birthday: 1988/1/1
+  maps: {k1: v1,k2: v2}
+  lists:
+    - 李四
+    - 王五
+  dog:
+    name: 汤姆
+    age: 3
+  last-name: yong@126.com
+server:
+  port: 8082
+#spring:
+#  profiles:
+#    active: dev
